@@ -8,6 +8,13 @@ body {
     font-family: Arial, sans-serif;
 }
 
+#scoreBoard {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
 #gameArea {
     width: 750px;
     height: 500px;
